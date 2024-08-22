@@ -12,4 +12,4 @@ I'm a fourth-year undergraduate student from [School of Mathematical Science](ht
 
 Papers
 ======
-1. Y.Sun (with Zhiqiang Li), Tropical Thermodynamic Formalism. Preprint, [arXiv:2408.10169](https://arxiv.org/abs/2408.10169). 49 pages. [PDF](https://arxiv.org/pdf/2408.10169)
+1. Y. Sun (with Zhiqiang Li), Tropical Thermodynamic Formalism. Preprint, [arXiv:2408.10169](https://arxiv.org/abs/2408.10169). 49 pages. [PDF](https://Yiqingsun10.github.io/files/v3.17.pdf)
